@@ -1,0 +1,35 @@
+fileFormatVersion: 2
+guid: 843432bdafc1157418615395bd49277f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - plainsPrefab: {fileID: 1788608119182008, guid: 8078dc0f251183d4f8c7484f0a0e2548,
+      type: 2}
+  - forestPrefab: {fileID: 1883868890574134, guid: 3389fdb2c3c45f543baca5c3ec238da5,
+      type: 2}
+  - mountainPrefab: {fileID: 1255352225024846, guid: c2c297f848619514aa06f52868ab39a7,
+      type: 2}
+  - riverPrefab: {fileID: 1244116536971336, guid: 0cb3635359092c548bbdf0ada8dd239d,
+      type: 2}
+  - fortressPrefab: {fileID: 1695143631121172, guid: d0bec2ff890a81f44b7e1fdd0849a7f4,
+      type: 2}
+  - humanSoldierPrefab: {instanceID: 0}
+  - humanArcherPrefab: {instanceID: 0}
+  - humanKnightPrefab: {instanceID: 0}
+  - humanSiegePrefab: {instanceID: 0}
+  - humanHeroPrefab: {instanceID: 0}
+  - humanArcherTrapPrefab: {instanceID: 0}
+  - undeadSoldierPrefab: {instanceID: 0}
+  - undeadArcherPrefab: {instanceID: 0}
+  - undeadKnightPrefab: {instanceID: 0}
+  - undeadSiegePrefab: {instanceID: 0}
+  - undeadHeroPrefab: {instanceID: 0}
+  - humanAcherTrapPrefab: {fileID: 1599078141958290, guid: 7be8d6b2e83dfc94c99e9327b23185ae,
+      type: 2}
+  - terrainFile: {fileID: 4900000, guid: 3b7ad8b48f24b0642bd26dd5e458cc93, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
